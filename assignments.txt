@@ -1,0 +1,5 @@
+list of post - when click on any post it should display the details of the particular post
+
+list of users - when click on any user it should display the details of the particular user
+
+list of random images  - when click on any image it should popup that particular iamge
